@@ -1,4 +1,8 @@
 # Podcasts
+
+Coding Blocks
+https://www.codingblocks.net/
+
 Hansel Minutes
 https://hanselminutes.com/
 
